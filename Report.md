@@ -108,6 +108,26 @@ This study is examining the dynamics of NusG (a molecule) in E. coli to make inf
 - Single molecule localizations performed with custom software
 - As previously stated, links are provided for open access code and software that were used for analysis.
 
+## Paper 2 (LH): Single molecule microscopy reveals key physical features of repair foci in living cells (2021)
+
+### Data availability and accessibility
+- A table is provided which lists all the yeast strains used in the study, their genotype, and their source
+
+### Quality of experimental design
+- Performed dilution assay of Rad52 (molecule of interest) fused to different fluorophores that they used along with wild type and Rad52 null cells to validate the functionality of Rad52 is not changed with the addition of the fluorophores.
+- 
+
+### Description of methods
+- For strain construction a brief description is provided that specifies the particular plasmids and sequences used during the strain construction. For the technique that was used it only states the name of the technique (no reference is provided to the source paper of the technique). A link to bio-protocol is provided for those who would like a more detailed strain construction protocol.
+- A detailed description is provided outlining the sample prepartion methods. The description includes time, concentration, and OD specifics. There is one step, however, that does not report a necessary concentration. A link to bio-protocol is provided for those who need a more detailed protocol for microscopy sample preparation.
+- A detailed description of the 1.6 hexandiol treatment is provided which lists time and concentration specifics.
+- A brief description of the cell fixation protocols is provided with a link to bio-protocol for those who need more detailed protocols.
+- 
+
+### Description of sample population/data under study
+
+
+### Tool accessibility
 
 ## Computational Neuroscience
 ## Paper 1 (RFJ): Go with the FLOW: visualizing spatiotemporal dynamics in optical widefield calcium imaging (2021)
