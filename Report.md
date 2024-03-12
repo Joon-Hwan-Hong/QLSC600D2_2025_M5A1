@@ -113,6 +113,8 @@ This study is examining the dynamics of NusG (a molecule) in E. coli to make inf
 
 ### Data availability and accessibility
 - A table is provided which lists all the yeast strains used in the study, their genotype, and their source
+- For many of the method subsections, a link is provided to bio-protocol where one can contact the author to request further details about the respective protocol of the particular method.
+- All source datafiles are availabel on zenodo and a link is provided in the paper.
 
 ### Quality of experimental design
 - Performed dilution assay of Rad52 (molecule of interest) fused to different fluorophores that they used along with wild type and Rad52 null cells to validate the functionality of Rad52 is not changed with the addition of the fluorophores.
@@ -124,14 +126,19 @@ This study is examining the dynamics of NusG (a molecule) in E. coli to make inf
 - A detailed description of the 1.6 hexandiol treatment is provided which lists time and concentration specifics.
 - A brief description of the cell fixation protocols is provided with a link to bio-protocol for those who need more detailed protocols.
 - Description of the single particle tracking contains all necessary image acquistion information. Details on the tracking analysis is vague and missing details such as parameters for localizing and tracking the particles.
+- Equations are provided that were used in fitting the probability density functions of the displacement histograms. Statistical methods are described that were used to determine the appropriate distribution for the data and estimating uncertainties on the parameter values.
+- The methods used to identify repair foci are qualitatively explained (as in the steps are described but no numeric parameters are provided).
+- Sufficient information is provided for mean square displacement analysis
+- Simulations are described briefly but do not contain enough information to replicate. For example, I don't know what algorithms were implemented to create the simulations
 
 ### Description of sample population/data under study
-
+- 
 
 ### Tool accessibility
 - A custom microscope is used for single molecule imaging (not accessible), however they provide the name of a commercial microscope which it is based on.
 - The microscope is controlled with NIS imaging software (accessible to those using a Nikon microscope)
 - A custom algorithm is used for tracking the molecules (not accessible), however they reference the paper the algorithm is based on.
+- All analysis is done with custom code that is not provided.
 
 ## Computational Neuroscience
 ## Paper 1 (RFJ): Go with the FLOW: visualizing spatiotemporal dynamics in optical widefield calcium imaging (2021)
