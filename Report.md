@@ -79,7 +79,8 @@ The tools required for the study are publicly available, although the algorithm 
 ### Replicability 
 The algorithm utilized in the study can be replicated for use with GWAS data associated with different traits. However, replicating the data preprocessing steps may present challenges as the code for this process is not provided. Lack of access to the preprocessing code could hinder the replicability of the study, as it may be difficult for other researchers to precisely reproduce the initial data preparation steps. Providing the preprocessing code or detailed instructions would enhance the replicability of the study and facilitate its adoption by other researchers interested in utilizing similar GWAS datasets.
 
-### Molecular Biology
+## Molecular Biology
+
 ## Paper 1 (LH): Single-molecule tracking reveals the functional allocation, in vivo interactions, and spatial organization of universal transcription factor NusG (2024)
 
 ### Data availability and accesibility
@@ -122,12 +123,15 @@ This study is examining the dynamics of NusG (a molecule) in E. coli to make inf
 - A detailed description is provided outlining the sample prepartion methods. The description includes time, concentration, and OD specifics. There is one step, however, that does not report a necessary concentration. A link to bio-protocol is provided for those who need a more detailed protocol for microscopy sample preparation.
 - A detailed description of the 1.6 hexandiol treatment is provided which lists time and concentration specifics.
 - A brief description of the cell fixation protocols is provided with a link to bio-protocol for those who need more detailed protocols.
-- 
+- Description of the single particle tracking contains all necessary image acquistion information. Details on the tracking analysis is vague and missing details such as parameters for localizing and tracking the particles.
 
 ### Description of sample population/data under study
 
 
 ### Tool accessibility
+- A custom microscope is used for single molecule imaging (not accessible), however they provide the name of a commercial microscope which it is based on.
+- The microscope is controlled with NIS imaging software (accessible to those using a Nikon microscope)
+- A custom algorithm is used for tracking the molecules (not accessible), however they reference the paper the algorithm is based on.
 
 ## Computational Neuroscience
 ## Paper 1 (RFJ): Go with the FLOW: visualizing spatiotemporal dynamics in optical widefield calcium imaging (2021)
