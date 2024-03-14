@@ -44,7 +44,7 @@ The title of the paper, "Linking the resistome and plasmidome to the microbiome"
 Software used was provided, though exact versions used were not always described. Analyses of the Hi-C libraries were performed using a proprietary pipeline developed by the private research partner and was acknowledged in the paper. Not all of the equipment and reagents used were described in enough detail in the methods section, for example, the make and model of the flow cytometer used for cell counts was not described nor the "R2A agar" media for colony forming unit (CFU) counts was not provided with a recipe list nor the commercial vendor (if applicable). 
 
 ## Genetics
-## Paper 6: Human genetics evidence supports two-thirds of the 2021 FDA-approved drugs (2022)
+## Paper 1(AT): Human genetics evidence supports two-thirds of the 2021 FDA-approved drugs (2022)
 ### Data availability and accessibility
 The paper was originally published in Nature Reviews Drug Discovery under the biobusiness briefs section. The codes are accessible, with the link provided in the article. However, the platform used to store their data is unavailable.
 
@@ -60,7 +60,7 @@ They used 15 different genetic resources, which is very comprehensive and covers
 ### Tool accessibility 
 The code and data are available online, but the software used to store their data, known as "spark," is not accessible without Google Cloud storage, which requires payment.
 
-## Paper 7: An effector index to predict target genes at GWAS loci (2021)
+## Paper 2(AT): An effector index to predict target genes at GWAS loci (2021)
 ### Data availability and accessibility
 The paper discusses the development of the effector index, utilizing GWAS summary statistics or individual-level genetic data. All data and code mentioned in the original paper are accessible online, although the data preprocessing and evaluation codes used is not provided. Positive control genes for evaluation were sourced from databases such as the Human Disease Ontology database, OMIM linkage information, and a study by Morris et al. Additionally, GWAS summary statistics were gathered from various publicly available resources and through GWAS conducted on UK Biobank traits. The paper thoroughly identifies all other data sources utilized in the study.
 
@@ -79,11 +79,12 @@ The tools required for the study are publicly available, although the algorithm 
 ### Replicability 
 The algorithm utilized in the study can be replicated for use with GWAS data associated with different traits. However, replicating the data preprocessing steps may present challenges as the code for this process is not provided. Lack of access to the preprocessing code could hinder the replicability of the study, as it may be difficult for other researchers to precisely reproduce the initial data preparation steps. Providing the preprocessing code or detailed instructions would enhance the replicability of the study and facilitate its adoption by other researchers interested in utilizing similar GWAS datasets.
 
-### Molecular Biology
+## Molecular Biology
+
 ## Paper 1 (LH): Single-molecule tracking reveals the functional allocation, in vivo interactions, and spatial organization of universal transcription factor NusG (2024)
 
 ### Data availability and accesibility
-This paper is published under open access. A key resource table is provided which lists all reagents, bacteria strains, data and software etc., their source and identifier (if applicable). Fluorescence imaging dataset is published and openly available on Mendeley. Links are provided to the sources of the code and softwares used, however one of the softwares is reported to be no longer supported. Contact information is provided for the lead author along with a statement acknowledging information will be provided upon request if needed to reanalyze the data. A statement is provided acknoledging that all strains generated in the study will be provided upon request. All this information was provided in a section called STAR Methods. STAR stands for Structured, Transparent, Accessible Reporting. This is a methods format introduced in 2016 that has been adopted by all Cell Press journals (https://www.cell.com/star-authors-guide).
+This paper is published under open access through Cell Press Journals. A key resource table is provided which lists all reagents, bacteria strains, data and software etc., their source and identifier (if applicable). Fluorescence imaging dataset is published and openly available on Mendeley. Links are provided to the sources of the code and softwares used, however one of the softwares is reported to be no longer supported. Contact information is provided for the lead author along with a statement acknowledging information will be provided upon request if needed to reanalyze the data. A statement is provided acknoledging that all strains generated in the study will be provided upon request. All this information was provided in a section called STAR Methods. STAR stands for Structured, Transparent, Accessible Reporting. This is a methods format introduced in 2016 that has been adopted by all Cell Press journals (https://www.cell.com/star-authors-guide).
 
 ### Quality of experimental design
 - Sequencing was performed on the constructs as validation
@@ -100,7 +101,7 @@ This paper is published under open access. A key resource table is provided whic
 - For single molecule tracking analysis a reference is provided to a previous paper where the same method was used. A brief description is also provided, while the methods in the previous paper are in great depth.
 
 ### Description of sample population/data under study	
-This study is examining the dynamics of NusG (a molecule) in E. coli to make inferences about the different NusG populations and their abundance. One could thus claim that the sample population is the NusG molecules. For each distribution that was reported the number of NusG molecules contributing to the distribution was reported in the figure caption which averaged around 40 000. These molecules were sampled from many E. coli cells (order of hundreds) in multiple fields of view (not specified numerically). For this type of study, I would claim that the sample population is representative (not just collected from one experiment/ one field of view / one experiment). One improvement would be including the number of fields of view and experimental repeats with the statement made in the Quantification and Statistical Analysis statement. 
+This study is examining the dynamics of NusG (a molecule) in E. coli to make inferences about the different NusG populations and their abundance. One could thus claim that the sample population is the NusG molecules. For each distribution that was reported the number of NusG molecules contributing to the distribution was reported in the figure caption which averaged around 40 000. These molecules were sampled from many E. coli cells (order of hundreds) in multiple fields of view (not specified numerically). For this type of study, I would claim that the sample population is representative (not just collected from one experiment/ one field of view / one cell). One improvement would be including the number of fields of view and experimental repeats with the statement made in the Quantification and Statistical Analysis statement. 
 
 ### Tool accessibility
 - The microscope used for single-molecule tracking PALM is custom built, thus it is not easily accessible unless you are located at their institution (Oxford). A detailed description regarding the microscopes specs was provided which allows people to identify a commercial microscope that is comparable.
@@ -108,6 +109,25 @@ This study is examining the dynamics of NusG (a molecule) in E. coli to make inf
 - Single molecule localizations performed with custom software
 - As previously stated, links are provided for open access code and software that were used for analysis.
 
+## Paper 2 (LH): Single molecule microscopy reveals key physical features of repair foci in living cells (2021)
+
+### Data availability and accesibility
+This paper is published by eLife which is an open access journal. All single molecule imaging files are made available on zendo and the link provided is functional. This data availability should be sufficient to attempt replication of the analysis reported in this study. Additionally, detailed tables outlining the yeast strains and the primer sequences used in the study are provided.
+
+### Quality of experimental design
+This paper is performing single molecule tracking of a DNA repair protein in yeast. The sample sizes used in analysis seem reasonable (many different cells and many traces per cell). The choice of model used to fit the data is well informed (statistical tests performed to compare different models). Validation experiments were performed to assess the impact of adding a fluorescent tag to the protein had on cell functionality. Multiple condtions were studied (no DNA breaks vs double stranded break, compare dynamics to single stranded DNA binding protein, comparison with mobility in diploid cells) which are logical and inform the conclusions. 
+
+### Description of methods
+Overall, the methodology section is very thorough and includes specific details such as temperatures, concentrations, protocol times, and image acquisition  details that are necessary to reproduce the experiments. Where further details could be needed include, a description of the parameters used to tracking single molecules and a description of the algorithms used for the simulations. For most protocols described in the methods a link is provided to bio-protocol where one can request more details. This is described to be part of eLife's effort to make science more reproducible and may not necessarily be a reflection of the author's willingness to respond.
+
+### Description of sample population/data under study
+A table of all yeast strains used in the study is provided which includes their genotype and origin. It is reported that for each condition, at least 3 independent experiments were performed using different samples prepared from different colonies. The study also specifies that all cells were chosen at the same cell cycle phase and their method of identifying it. In the supplementary material, a table is provided that lists for a particular condition, the number of cells, single molecule traces, and single molecule displacements that contributed to the analysis. This is a clean way of communicating the sample sizes to the reader. The table is however, provided as a .tex file whereas a pdf file could have easily been used instead that would be more accessible to a general audience. 
+
+### Tool accessibility
+All microscopy was done on a custom set-up, however, they name a commericial microscope that it is based on which would is likely easier to access. All code used in the analysis is custom and not shared. Very little information is provided about the analysis code (no reference to language or software) making it challenging to perform an exact replication of the analysis.
+
+### Additional notes
+eLife includes a transparent reporting form with the publication where the authors are asked to comment on sample-size estimation, replicates, statistical reporting, group allocation, and additional data files. The authors provided reasonable responses to each section. 
 
 ## Computer Vision
 ## Paper 11: Organizing principles of astrocytic nanoarchitecture in the mouse cerebral cortex (2023)
