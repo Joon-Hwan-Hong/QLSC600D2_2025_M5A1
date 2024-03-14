@@ -70,3 +70,16 @@ Decided to score based on how long it could take to get access to the data (fast
 
 1 = Uncertain access with uncertain timeline (Will need to contact someone and you don't know how they will respond or if they will respond, etc.)
 
+**For the other columns we did not get to making a specific rubric like we have for data availability. We ended with thinking about lumping description of protocols, samples, and tools under description of methods but this idea hasn't been fully figured out. We are going to think on our own about how we can make generalizable criteria for the other categories and reconvene on Tuesday March 19 @ 1:30.**
+
+## Additional Notes
+### Assessing quality of experimental design
+ - Does this experiment answer the research question?
+ - Are the authors making assumptions that are not based on the evidence they acquried?
+ - Is the hypothesis answered in a scientific way?
+
+### Description of methods
+- Is the path of answering the hypothesis explained completely?
+
+## If you have additional thoughts to share, write them out below
+
