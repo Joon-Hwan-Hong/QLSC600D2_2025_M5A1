@@ -262,3 +262,20 @@ The paper notably lacks detailed descriptions of the mice used for widefield ima
 
 The authors have made their code openly accessible and distributed it, including the optic flow methods, and have even developed a user-friendly graphic interface named OFAMM for ease of use. While the methods for calculating sources and sinks lack explicit documentation, the provided steps on how to utilize the toolbox facilitate its application. The paths and names of saved files generated from the algorithm were also indicated for easier navigation through the outputs of the toolbox.
 
+## Bioengineering
+## Paper 15: Cancer Cell Membrane-Coated Nanoparticles for Anticancer Vaccination and Drug Delivery (2014)
+
+### Data availability and accesibility
+Data is, in theory, available upon request. Because the data set was produced in lab and the method is the most important aspect of this report, not big issue is put into making the data available directly without requesting it directly.
+
+### Quality of experimental design
+Design looks solid, because the study is mostly physical, we can see the the data analysis is just enough to show the trend is present.
+
+### Description of methods
+Method is the most solid aspect of this study, it goes very in depth into telling what each step is. Including the reagent concentration and device settings.
+
+### Description of sample population/data under study	
+Good description of the population. Almost N/A though since we are justlooking at the effect of the core composition in a medicinal setting.
+
+### Tool accessibility
+Other than the expensive equipment, the analysis software is fine
