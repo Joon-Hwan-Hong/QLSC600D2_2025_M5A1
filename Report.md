@@ -317,7 +317,9 @@ This paper is only based on one patient, since it is really hard to obtain patie
 ### Tool accessibility
 The pathological processing chemicals and microscopes are common in medical facilities and not expensive. However, patient sample would be really hard to obtain for such rare eye disease.
 
-## Paper 1(MS): Iron Replacement Therapy in the Routine Management of Blood Donors (2011)
+## Public Health
+
+## Paper 1 (MS): Iron Replacement Therapy in the Routine Management of Blood Donors (2011)
 
 ### Data availability and accessibility
 health data is very sensitive so reviewers would need permission from the ethics board of the hospital where the data was acquired from. The authors also do not mention the hospital where the data was collected; this information would have to be obtained by contacting the authors directly.
