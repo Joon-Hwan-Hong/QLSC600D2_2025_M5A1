@@ -109,16 +109,16 @@ This study is examining the dynamics of NusG (a molecule) in E. coli to make inf
 - Single molecule localizations performed with custom software
 - As previously stated, links are provided for open access code and software that were used for analysis.
 
-## Paper 2 (LH): Single molecule microscopy reveals key physical features of repair foci in living cells
+## Paper 2 (LH): Single molecule microscopy reveals key physical features of repair foci in living cells (2021)
 
 ### Data availability and accesibility
-This paper is published by eLife which is an open access journal. All single molecule imaging files are made available on zendo and the link provided is functional. Additionally, detailed tables outlining the yeast strains and the primer sequences used in the study are provided.
+This paper is published by eLife which is an open access journal. All single molecule imaging files are made available on zendo and the link provided is functional. This data availability should be sufficient to attempt replication of the analysis reported in this study. Additionally, detailed tables outlining the yeast strains and the primer sequences used in the study are provided.
 
 ### Quality of experimental design
 
 
 ### Description of methods
-
+Overall, the methodology section is very thorough and includes specific details such as temperatures, concentrations, protocol times, and image acquisition  details that are necessary to reproduce the experiments. Where further details could be needed include, a description of the parameters used to tracking single molecules and a description of the algorithms used for the simulations. For most protocols described in the methods a link is provided to bio-protocol where one can request more details. This is described to be part of eLife's effort to make science more reproducible and may not necessarily be a reflection of the author's willingness to respond.
 
 ### Description of sample population/data under study
 A table of all yeast strains used in the study is provided which includes their genotype and origin. It is reported that for each condition, at least 3 independent experiments were performed using different samples prepared from different colonies. 
