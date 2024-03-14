@@ -109,6 +109,19 @@ This study is examining the dynamics of NusG (a molecule) in E. coli to make inf
 - Single molecule localizations performed with custom software
 - As previously stated, links are provided for open access code and software that were used for analysis.
 
+## Paper 2 (LH): Single molecule microscopy reveals key physical features of repair foci in living cells
+
+### Data availability and accesibility
+
+
+### Quality of experimental desing
+
+
+### Description of methods
+
+
+### Tool accessibility
+
 
 ## Computer Vision
 ## Paper 11: Organizing principles of astrocytic nanoarchitecture in the mouse cerebral cortex (2023)
