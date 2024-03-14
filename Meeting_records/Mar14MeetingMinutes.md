@@ -1,3 +1,6 @@
+**In Attendance:** Monica, Matthew, Ryan, Alina, Fritz, Ioan, Lydia
+**Absent:** Caesar, Megan, Ashim
+
 ## 1st Agenda: Convert table document to .csv format
 - The excel document has been removed (R.I.P.)
 - From now on make changes in the .csv file (which you can edit in github, yay!)
