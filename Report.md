@@ -352,8 +352,7 @@ There were also definitions in the inclusions and exclusion criteria that were n
 ### Tool accessibility
 Neither the data collection software nor the data analysis software used in this study were mentioned. Otherwise, this study described the laboratory methods that they used.
 
-## Paper 3 (MS): 
-The effect of repeated blood donations on the iron status of male Saudi blood donors (2011)
+## Paper 3 (MS): The effect of repeated blood donations on the iron status of male Saudi blood donors (2011)
 
 ### Data availability and accessibility
 To access the data, reviewers would have likely have to gain permissions from the local ethics committees of all participating hospital centers.
