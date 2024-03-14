@@ -109,8 +109,94 @@ This study is examining the dynamics of NusG (a molecule) in E. coli to make inf
 - As previously stated, links are provided for open access code and software that were used for analysis.
 
 
+## Computer Vision
+## Paper 11: Organizing principles of astrocytic nanoarchitecture in the mouse cerebral cortex (2023)
+
+### Data availability and accesibility
+Data appears to be available and accessible. However, it is stated that all data reported in the paper can only be accessed upon request to the lead contact, who is the principal investigator of the lab which produced the article. Although lead contact information is provided, the response and delivery time will most likely vary and is dependent solely on the lead contact. Perhaps creating a webpage with downloadable links would resolve this concern by eliminating the need to first reach out to the lead contact.
+
+### Quality of experimental design
+Overall, the quality of the experimental design is simple yet complex. Given that the goal was to resolve astrocytic architecture, the authors wisely used imaging techiniques that yielded the highest resolution possible, focused ion beam scanning electron microscopy. With this approach and manual segmentation labour, the researchers were able to yield a detailed 3D reconstruction of astrocytes and certain physical features. In addition, the researchers reported ample quality control of the manual segmentation. The researchers were aware about the issues that may arise due to the nature of hand segmentation and made efforts to minimize error. In order to analyze the segmentation data, the researchers applied suitable algorithms for the 3D space the data resided in. There appeared to be a clear reasoning for the selection of each algorithm to yield answers to each astrocytic architecture question asked.
+
+### Description of methods
+The methodology section of this article was certainly extensive and clearly organized. The authors subdivided this section logically into partitions such as tissue preparation for light microscopy, focused ion beam scanning electron microscopy, and 3D reconstruction. Quantification and statistical analysis was its own section that immediately followed. In total, there were 13 methodology subcategories with not a single detail appearing to be missed. The amount of information covered, although vast, was made digestible by the subsectioning and the chronological ordering.  
+
+### Description of sample population/data under study	
+The data analyzed was gathered from mice brain tissue and the researchers provided a sufficient amount detail about the organism strains. In addition to strain information, the authors also included a great amount of detail regarding the tissue collection procedure from the purchasing of the mice to the brain removal surgery.
+
+### Tool accessibility
+All resources and tools are accessible. This is shown through the article's clear and extensive key resources table which included information regarding all resource categories such as chemicals, organisms, and software. The table was well organized such that for each resource, there included its name, source company, and identification code. Having data information presented in the elegant table manner makes it easy for readers to obtain the exact same resources if needed. All code used in the article is neatly organized on a GitHub repository with clear instructions and sample data to operate on. One concern is the sheer man power and time needed to perform this experiment specifically for the segmentation stage. 
+
+## Neuroscience
+## Paper 12: Glycogen distribution in mouse hippocampus (2019)
+
+### Data availability and accesibility
+There appears to be zero effort made by the authors to make the data included in this article available or accessible.
+
+### Quality of experimental design
+The researchers make the point that their glycogen analysis methodology is an improvement on those that have been used in past studies. In previous studies, researchers have used the periodic acid-Schiff staining method to visualize glycogen levels. This method is not glycogen specific but rather stains for glycoproteins and proteoglycans. Another downfall of past studies that during the collection of brain tissue, glycogen is depleted during one of the necessary steps for immunohistochemistry and consequently invalidates the evaluation of glycogen concentration and distribution. To combat these known flaws of glycogen analysis, the researchers made the careful decision to use an antibody that is specific to glycogen and use a technique called focused microwave irradiation which preserves the state of glycogen at the time of collection by inactivating enzymatic activites. To provide evidence of how the methodology of the current paper is superior to past studies, the authors included figures clearly demonstrating the glycogen specificity of the antibodies and the glycogen preservation of the microwave fixation procedure.
+In terms of investigating the immunohistochemistry results, all observations were qualitative and lack statistical analysis. Observed patterns such as certain hippocampal layers being more rich in glycogen are accompanied by unanswered questions such as how were layer boundaries defined? How were glycogen concentration levels determined? Although the role of this paper may have been to provide solely qualitative observations, basic explanations as to how these qualitative observations were obtained should have been included.
+
+### Description of methods
+Overall, the methodology of this paper is weak. In fact, there was no section dedicated to the methods. Details are dispersed and intertwined with background information. This poor organization provides the reader with the inconvenient task to parse through the entire paper to filter for methodology components. Before discussing the methodology for the first time, the authors state that they will "summarize" the histological procedure. This statement seems to assert that the researchers were fully aware about how much detail was going to be omitted in this article. The researchers provide rudimentary information regarding the collection and preparation of the brain tissue for light microscopy such as how the brain tissue was removed and fixed, which antibodies were used, and what they stain for. The authors ask the reader to refer to another paper for all immunohistological procedure details. In terms of their qualitative observations, no details as to how they came to these conclusions are listed. All statements about glycogen distribution appear to be made by visual judgement. 
+
+### Description of sample population/data under study	
+In the article, no information is directly given about the mice strain. Mice information can be found in a separate paper the authors reference. It would have been helpful to include basic information about the organism and its tissue in the present article.
+
+### Tool accessibility
+Light microscopy equipment is usually easily accessible. However, the microwave fixation system is most likely a limiting factor. The present paper and other papers who used the system all did so in Tokyo, Japan at a specific company. In addition, purchasing information is not readily available on the company's website.
+
+
 ## Computational Neuroscience
 ## Paper 1 (RFJ): Go with the FLOW: visualizing spatiotemporal dynamics in optical widefield calcium imaging (2021)
+
+### Data availability and accesibility
+All data and code presented in this paper are publicly available (open access). You can access the data and code repository at the following link: https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0523#d1e2672. The repository includes both the code used in the experiments and the associated data, encompassing both raw and processed datasets, all openly accessible.  Additionally, supplementary videos have been provided for result comparisons mentioned in the paper. Some of the data sources are referenced in another paper co-authored by one of the contributors to this study.
+
+### Quality of experimental design
+This paper relies on algorithmic outputs applied to available data for its results. The chosen sample size appears reasonable for conducting a statistical analysis; however, concerns arise regarding the statistical methods employed. Specifically, a pairwise t-test was conducted on the distribution of ridges derived from their code, yet the rationale for choosing this test method remains unclear. Notably, the t-test typically assumes normal distribution of data, a point unaddressed in their explanation.
+
+Furthermore, the reported small p-value, emphasized as validating the assertion of changes in brain dynamics for older mouse pups, raises skepticism. It is unclear whether the small p-value results from the inherent minuteness of the effect or if it genuinely reflects statistical significance. Compounding this, the authors lack a substantial dataset for comparison, as evidenced by their use of mean values to calculate a p-value on the order of 10^(-4). These factors contribute to ongoing reservations about the robustness and generalizability of the statistical findings. 
+
+### Description of methods
+
+This paper primarily delves into the implementation of a specific algorithm applied to mouse brain datasets, with a notable emphasis on elucidating the underlying principles and mathematical theory governing the code's functionality. However, the conceptual explanation assumes a degree of familiarity with fluid dynamics, making it somewhat challenging for those without intensive training in the field.
+
+Regarding the dataset, the authors provide references for additional insights into the mouse population details. The methods for the surgical procedures during widefield imaging are meticulously outlined, along with specific information on the employed calcium indicators. Despite these clarifications, certain steps, particularly those related to the type of brain activity analyzed in the mouse pup dataset, remain ambiguous. Additionally, the absence of a paper explicating the data gathering process for the mouse pup dataset raises questions.
+
+Further, the rationale behind comparing specific age groups of mouse pups is not explicitly stated, leaving the reader with uncertainties about the significance of the chosen comparisons. Clarifying these aspects would enhance the overall comprehensibility and transparency of the study.
+
+
+### Description of sample population/data under study
+
+Two distinct categories of mice were involved in the analysis of their brain activity. The first group comprised mouse pups, with ages specified to be a maximum of 8 days postnatal, providing a comprehensive description of the age range for this subset. In contrast, the adult mouse dataset delineated both the age (approximately 30 weeks) and gender (male) in explicit detail within the paper.
+
+### Tool accessibility
+The code is released under the permissive license, granting users the freedom to use, modify, distribute, and sublicense with minimal restrictions. The code was sufficiently documented and seemed to be directly usable. Papers were also cited in order to understand further the underlying theory behind the algorithm constructed. 
+
+## Paper 2 (RFJ): Optical-flow analysis toolbox for characterization of spatiotemporal dynamics in mesoscale optical imaging of brain activity (2017)
+
+### Data availability and accesibility
+
+In this paper, the authors utilized optical flow analysis tools and custom source and sink locators to investigate synthetic moving stimuli and mouse brain activity in the FLS1 and FLS2 regions. Supplementary videos demonstrating the application of these tools to the analyzed videos were provided alongside the paper. However, having access to raw data would be more useful in understanding the delta F/F calculation and its consequent effects. The accessibility of the raw data would enhance the transparency of the methodology, enabling a more thorough exploration of the analysis outcomes.
+
+### Quality of experimental design
+
+The study revolves around a MATLAB toolbox developed by the authors for extracting velocity vectors to analyze brain activity propagation on the cortex using optic flow. The paper concentrates on explaining the principles behind calculating time-varying velocity fields, their MATLAB implementation, and an assessment of the algorithm's performance.In the evaluation phase, the authors conducted a thorough comparison of velocity fields and angles, basing their analysis on theoretical parameters implemented in synthetic data. The assessment involved the application of the Horn-Shunck Algorithm, CLG method, and TS method. Despite featuring the CLG method, the authors candidly acknowledged its limitations within the analysis framework.The evaluation methodology displayed objectivity, encompassing a systematic comparison of the algorithm's performance against theoretical velocities. Notably, the authors measured the discrepancy between the toolbox-generated output and the theoretically expected velocities, contributing to a comprehensive assessment.The study's practicality was further demonstrated by testing the toolbox's resilience to noise inherent in widefield imaging data. Incorporating noisy data into the evaluation showcased the algorithm's robustness, adding a valuable dimension to its applicability in real-world scenarios.
+
+### Description of methods
+
+The explanation of the algorithms were thoroughly explained except for the TS method. It would be helpful, if not through mathematical equations, to use a figure to explain how the model works. Even though they provided the code and is sufficiently documented, the infographic of the TS Method workflow will still be helpful. 
+
+The methods explained in finding sources and sink seemed to be very simple compared to what is written in the code. For example in finding the Poincare index, it was unclear the type of neighborhood they used in the calculation. There is also no understandable mathematical  equation that they showed regarding this. Therefore, it was difficult to understand. Furthermore, they did not explained why the usage of a 2x2 sub array is the most helpful method in finding the source and sink.
+
+### Description of sample population/data under study
+
+There were not much description regarding the mouse used for widefield imaging in this paper. I would understand why this is the case since their paper is only testing the toolbox to sample brain activity and synthetic datasets to demonstrate the effectiveness of their algorithm. The synthetic dataset that they use also captures the behavior of stimulus that are fundamental such as horizontal an radial propagation, source and sink simulation and shape translation.
+
+
+### Tool accessibility
+The authors have made their code openly accessible and distributed it, including the optic flow methods, and have even developed a user-friendly graphic interface named OFAMM for ease of use. While the methods for calculating sources and sinks lack explicit documentation, the provided steps on how to utilize the toolbox facilitate its application. However, there is a challenge in locating files generated by the toolbox, an aspect not addressed in the manual, which can pose difficulties for users navigating the output files. Clarity on file storage and retrieval would enhance the user experience, ensuring a smoother and more efficient utilization of the toolbox.
 
 ### Data availability and accessibility
 All data and code presented in this paper are publicly available (open access). You can access the data and code repository at the following link: https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0523#d1e2672. The repository includes both the code used in the experiments and the associated data, encompassing both raw and processed datasets, all openly accessible.  Additionally, supplementary videos have been provided for result comparisons mentioned in the paper. Some of the data sources are referenced in another paper co-authored by one of the contributors to this study.
@@ -155,3 +241,4 @@ The paper notably lacks detailed descriptions of the mice used for widefield ima
 ### Tool accessibility 
 
 The authors have made their code openly accessible and distributed it, including the optic flow methods, and have even developed a user-friendly graphic interface named OFAMM for ease of use. While the methods for calculating sources and sinks lack explicit documentation, the provided steps on how to utilize the toolbox facilitate its application. The paths and names of saved files generated from the algorithm were also indicated for easier navigation through the outputs of the toolbox.
+
