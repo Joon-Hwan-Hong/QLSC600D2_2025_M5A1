@@ -44,7 +44,7 @@ The title of the paper, "Linking the resistome and plasmidome to the microbiome"
 Software used was provided, though exact versions used were not always described. Analyses of the Hi-C libraries were performed using a proprietary pipeline developed by the private research partner and was acknowledged in the paper. Not all of the equipment and reagents used were described in enough detail in the methods section, for example, the make and model of the flow cytometer used for cell counts was not described nor the "R2A agar" media for colony forming unit (CFU) counts was not provided with a recipe list nor the commercial vendor (if applicable). 
 
 ## Genetics
-## Paper 6: Human genetics evidence supports two-thirds of the 2021 FDA-approved drugs (2022)
+## Paper 1(AT): Human genetics evidence supports two-thirds of the 2021 FDA-approved drugs (2022)
 ### Data availability and accessibility
 The paper was originally published in Nature Reviews Drug Discovery under the biobusiness briefs section. The codes are accessible, with the link provided in the article. However, the platform used to store their data is unavailable.
 
@@ -60,7 +60,7 @@ They used 15 different genetic resources, which is very comprehensive and covers
 ### Tool accessibility 
 The code and data are available online, but the software used to store their data, known as "spark," is not accessible without Google Cloud storage, which requires payment.
 
-## Paper 7: An effector index to predict target genes at GWAS loci (2021)
+## Paper 2(AT): An effector index to predict target genes at GWAS loci (2021)
 ### Data availability and accessibility
 The paper discusses the development of the effector index, utilizing GWAS summary statistics or individual-level genetic data. All data and code mentioned in the original paper are accessible online, although the data preprocessing and evaluation codes used is not provided. Positive control genes for evaluation were sourced from databases such as the Human Disease Ontology database, OMIM linkage information, and a study by Morris et al. Additionally, GWAS summary statistics were gathered from various publicly available resources and through GWAS conducted on UK Biobank traits. The paper thoroughly identifies all other data sources utilized in the study.
 
@@ -79,11 +79,12 @@ The tools required for the study are publicly available, although the algorithm 
 ### Replicability 
 The algorithm utilized in the study can be replicated for use with GWAS data associated with different traits. However, replicating the data preprocessing steps may present challenges as the code for this process is not provided. Lack of access to the preprocessing code could hinder the replicability of the study, as it may be difficult for other researchers to precisely reproduce the initial data preparation steps. Providing the preprocessing code or detailed instructions would enhance the replicability of the study and facilitate its adoption by other researchers interested in utilizing similar GWAS datasets.
 
-### Molecular Biology
+## Molecular Biology
+
 ## Paper 1 (LH): Single-molecule tracking reveals the functional allocation, in vivo interactions, and spatial organization of universal transcription factor NusG (2024)
 
 ### Data availability and accesibility
-This paper is published under open access. A key resource table is provided which lists all reagents, bacteria strains, data and software etc., their source and identifier (if applicable). Fluorescence imaging dataset is published and openly available on Mendeley. Links are provided to the sources of the code and softwares used, however one of the softwares is reported to be no longer supported. Contact information is provided for the lead author along with a statement acknowledging information will be provided upon request if needed to reanalyze the data. A statement is provided acknoledging that all strains generated in the study will be provided upon request. All this information was provided in a section called STAR Methods. STAR stands for Structured, Transparent, Accessible Reporting. This is a methods format introduced in 2016 that has been adopted by all Cell Press journals (https://www.cell.com/star-authors-guide).
+This paper is published under open access through Cell Press Journals. A key resource table is provided which lists all reagents, bacteria strains, data and software etc., their source and identifier (if applicable). Fluorescence imaging dataset is published and openly available on Mendeley. Links are provided to the sources of the code and softwares used, however one of the softwares is reported to be no longer supported. Contact information is provided for the lead author along with a statement acknowledging information will be provided upon request if needed to reanalyze the data. A statement is provided acknoledging that all strains generated in the study will be provided upon request. All this information was provided in a section called STAR Methods. STAR stands for Structured, Transparent, Accessible Reporting. This is a methods format introduced in 2016 that has been adopted by all Cell Press journals (https://www.cell.com/star-authors-guide).
 
 ### Quality of experimental design
 - Sequencing was performed on the constructs as validation
@@ -100,13 +101,33 @@ This paper is published under open access. A key resource table is provided whic
 - For single molecule tracking analysis a reference is provided to a previous paper where the same method was used. A brief description is also provided, while the methods in the previous paper are in great depth.
 
 ### Description of sample population/data under study	
-This study is examining the dynamics of NusG (a molecule) in E. coli to make inferences about the different NusG populations and their abundance. One could thus claim that the sample population is the NusG molecules. For each distribution that was reported the number of NusG molecules contributing to the distribution was reported in the figure caption which averaged around 40 000. These molecules were sampled from many E. coli cells (order of hundreds) in multiple fields of view (not specified numerically). For this type of study, I would claim that the sample population is representative (not just collected from one experiment/ one field of view / one experiment). One improvement would be including the number of fields of view and experimental repeats with the statement made in the Quantification and Statistical Analysis statement. 
+This study is examining the dynamics of NusG (a molecule) in E. coli to make inferences about the different NusG populations and their abundance. One could thus claim that the sample population is the NusG molecules. For each distribution that was reported the number of NusG molecules contributing to the distribution was reported in the figure caption which averaged around 40 000. These molecules were sampled from many E. coli cells (order of hundreds) in multiple fields of view (not specified numerically). For this type of study, I would claim that the sample population is representative (not just collected from one experiment/ one field of view / one cell). One improvement would be including the number of fields of view and experimental repeats with the statement made in the Quantification and Statistical Analysis statement. 
 
 ### Tool accessibility
 - The microscope used for single-molecule tracking PALM is custom built, thus it is not easily accessible unless you are located at their institution (Oxford). A detailed description regarding the microscopes specs was provided which allows people to identify a commercial microscope that is comparable.
 - The microscope used for SIM imaging is commercial - more accessible than custom built
 - Single molecule localizations performed with custom software
 - As previously stated, links are provided for open access code and software that were used for analysis.
+
+## Paper 2 (LH): Single molecule microscopy reveals key physical features of repair foci in living cells (2021)
+
+### Data availability and accesibility
+This paper is published by eLife which is an open access journal. All single molecule imaging files are made available on zendo and the link provided is functional. This data availability should be sufficient to attempt replication of the analysis reported in this study. Additionally, detailed tables outlining the yeast strains and the primer sequences used in the study are provided.
+
+### Quality of experimental design
+This paper is performing single molecule tracking of a DNA repair protein in yeast. The sample sizes used in analysis seem reasonable (many different cells and many traces per cell). The choice of model used to fit the data is well informed (statistical tests performed to compare different models). Validation experiments were performed to assess the impact of adding a fluorescent tag to the protein had on cell functionality. Multiple condtions were studied (no DNA breaks vs double stranded break, compare dynamics to single stranded DNA binding protein, comparison with mobility in diploid cells) which are logical and inform the conclusions. 
+
+### Description of methods
+Overall, the methodology section is very thorough and includes specific details such as temperatures, concentrations, protocol times, and image acquisition  details that are necessary to reproduce the experiments. Where further details could be needed include, a description of the parameters used to tracking single molecules and a description of the algorithms used for the simulations. For most protocols described in the methods a link is provided to bio-protocol where one can request more details. This is described to be part of eLife's effort to make science more reproducible and may not necessarily be a reflection of the author's willingness to respond.
+
+### Description of sample population/data under study
+A table of all yeast strains used in the study is provided which includes their genotype and origin. It is reported that for each condition, at least 3 independent experiments were performed using different samples prepared from different colonies. The study also specifies that all cells were chosen at the same cell cycle phase and their method of identifying it. In the supplementary material, a table is provided that lists for a particular condition, the number of cells, single molecule traces, and single molecule displacements that contributed to the analysis. This is a clean way of communicating the sample sizes to the reader. The table is however, provided as a .tex file whereas a pdf file could have easily been used instead that would be more accessible to a general audience. 
+
+### Tool accessibility
+All microscopy was done on a custom set-up, however, they name a commericial microscope that it is based on which would is likely easier to access. All code used in the analysis is custom and not shared. Very little information is provided about the analysis code (no reference to language or software) making it challenging to perform an exact replication of the analysis.
+
+### Additional notes
+eLife includes a transparent reporting form with the publication where the authors are asked to comment on sample-size estimation, replicates, statistical reporting, group allocation, and additional data files. The authors provided reasonable responses to each section. 
 
 ## Computer Vision
 ## Paper 11: Organizing principles of astrocytic nanoarchitecture in the mouse cerebral cortex (2023)
@@ -196,3 +217,48 @@ There were not much description regarding the mouse used for widefield imaging i
 
 ### Tool accessibility
 The authors have made their code openly accessible and distributed it, including the optic flow methods, and have even developed a user-friendly graphic interface named OFAMM for ease of use. While the methods for calculating sources and sinks lack explicit documentation, the provided steps on how to utilize the toolbox facilitate its application. However, there is a challenge in locating files generated by the toolbox, an aspect not addressed in the manual, which can pose difficulties for users navigating the output files. Clarity on file storage and retrieval would enhance the user experience, ensuring a smoother and more efficient utilization of the toolbox.
+
+### Data availability and accessibility
+All data and code presented in this paper are publicly available (open access). You can access the data and code repository at the following link: https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0523#d1e2672. The repository includes both the code used in the experiments and the associated data, encompassing both raw and processed datasets, all openly accessible.  Additionally, supplementary videos have been provided for result comparisons mentioned in the paper. Some of the data sources are referenced in another paper co-authored by one of the contributors to this study.
+
+### Quality of experimental design	
+
+This paper relies on algorithmic outputs applied to available data for its results. The chosen sample size appears reasonable for conducting a statistical analysis; however, concerns arise regarding the statistical methods employed. Specifically, a pairwise t-test was conducted on the distribution of ridges derived from their code, yet the rationale for choosing this test method remains unclear. Notably, the t-test typically assumes normal distribution of data, a point unaddressed in their explanation.
+
+Furthermore, the reported small p-value, emphasized as validating the assertion of changes in brain dynamics for older mouse pups, raises skepticism. It is unclear whether the small p-value results from the inherent minuteness of the effect or if it genuinely reflects statistical significance. Compounding this, the authors lack a substantial dataset for comparison, as evidenced by their use of mean values to calculate a p-value on the order of 10^(-4). These factors contribute to ongoing reservations about the robustness and generalizability of the statistical findings.  
+
+### Description of methods	
+This paper primarily delves into the implementation of a specific algorithm applied to mouse brain datasets, with emphasis on elucidating the underlying principles and mathematical theory governing the code's functionality. However, the conceptual explanation assumes a degree of familiarity with fluid dynamics, making it somewhat challenging for those without intensive training in the field.
+Regarding the dataset, the authors provide references for additional insights into the mouse population details. The methods for the surgical procedures during widefield imaging are meticulously outlined, along with specific information on the employed calcium indicators. Despite these clarifications, certain steps, particularly those related to the type of brain activity analyzed in the mouse pup dataset, remain ambiguous. Additionally, the absence of a paper explicating the data gathering process for the mouse pup dataset raises questions.
+
+
+### Description of sample population/data under study	
+
+Two distinct categories of mice were involved in the analysis of their brain activity. The first group comprised mouse pups, with ages specified to be a maximum of 8 days postnatal, providing a comprehensive description of the age range for this subset. In contrast, the adult mouse dataset delineated both the age (approximately 30 weeks) and gender (male) in explicit detail within the paper.
+
+### Tool accessibility 
+
+The code is open acces and was released under the permissive license, granting users the freedom to use, modify, distribute, and sublicense with minimal restrictions. The code was sufficiently documented and seemed to be directly usable. Papers were also cited in order to understand further the underlying theory behind the algorithm constructed. 
+
+
+## Paper 2 (RFJ): Optical-flow analysis toolbox for characterization of spatiotemporal dynamics in mesoscale optical imaging of brain activity (2017)
+
+### Data availability and accessibility
+The paper is easily accessible because it’s open access. In this paper, the authors used optical flow analysis tools and custom source and sink locators to investigate synthetic moving stimuli and mouse brain activity in the FLS1 and FLS2 regions. Supplementary videos showing the application of these tools to the analyzed videos were provided alongside the paper. While these videos offer practical insights, having access to raw data would be useful in comprehending the nuances of the delta F/F calculation and its consequent effects. The inclusion of raw data would enhance the transparency of the methodology, enabling a more thorough exploration of the analysis outcomes.
+
+### Quality of experimental design	
+The study revolves around a MATLAB toolbox developed by the authors for extracting velocity vectors to analyze brain activity propagation on the cortex using optic flow. The paper concentrates on elucidating the principles behind calculating time-varying velocity fields, their MATLAB implementation, and an assessment of the algorithm's performance. In the evaluation phase, the authors conducted a thorough comparison of velocity fields and angles, basing their analysis on theoretical parameters implemented in synthetic data. The assessment involved the application of the Horn-Shunck Algorithm, CLG method, and TS method. Despite featuring the CLG method, the authors candidly acknowledged its limitations within the analysis framework.
+The evaluation methodology displayed objectivity, encompassing a systematic comparison of the algorithm's performance against theoretical velocities. Notably, the authors measured the discrepancy between the toolbox-generated output and the theoretically expected velocities, contributing to a comprehensive assessment. The study's practicality was further demonstrated by testing the toolbox's resilience to noise inherent in widefield imaging data. Incorporating noisy data into the evaluation showcased the algorithm's robustness, adding a valuable dimension to its applicability in real-world scenarios. 
+
+### Description of methods	
+The paper provides a comprehensive and detailed explanation of the algorithms employed, except for the TS method. The TS method was simply explained in the paper, however, it was not quite informative. While the code is available and well-documented, a visual representation of the TS Method workflow could serve as a valuable supplement, facilitating a clearer grasp of its functioning.
+Concerning the methods for finding sources and sinks, the explanations appeared straightforward in the paper but seemed more complex in the code. For instance, the determination of the Poincare index lacked clarity regarding the type of neighborhood used in the calculation, and there was a noticeable absence of explicit mathematical equations. This omission made it challenging to fully comprehend the process. Additionally, the paper did not elaborate on why a 2x2 sub-array was chosen as the optimal method for identifying sources and sinks, leaving this aspect unclear.
+
+### Description of sample population/data under study	
+
+The paper notably lacks detailed descriptions of the mice used for widefield imaging, a gap that can be understood given the paper's primary focus on testing the toolbox for sampling brain activity and demonstrating the algorithm's effectiveness with synthetic datasets. The synthetic datasets employed in the study successfully capture fundamental stimulus behaviors, including horizontal and radial propagation, source and sink simulation, and shape translation. The emphasis on these synthetic datasets aligns with the paper's objectives, providing a controlled environment to showcase the toolbox's capabilities in handling various scenarios and validating its algorithmic performance. While the absence of detailed mouse descriptions may be justified in the context of the study's scope, future research or applications could benefit from incorporating additional details about the experimental subjects for a more comprehensive understanding of the study's context and potential real-world applications.
+
+### Tool accessibility 
+
+The authors have made their code openly accessible and distributed it, including the optic flow methods, and have even developed a user-friendly graphic interface named OFAMM for ease of use. While the methods for calculating sources and sinks lack explicit documentation, the provided steps on how to utilize the toolbox facilitate its application. The paths and names of saved files generated from the algorithm were also indicated for easier navigation through the outputs of the toolbox.
+
