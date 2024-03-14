@@ -1,4 +1,5 @@
 **In Attendance:** Monica, Matthew, Ryan, Alina, Fritz, Ioan, Lydia
+
 **Absent:** Caesar, Megan, Ashim
 
 ## 1st Agenda: Convert table document to .csv format
