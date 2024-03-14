@@ -124,7 +124,7 @@ Overall, the methodology section is very thorough and includes specific details 
 A table of all yeast strains used in the study is provided which includes their genotype and origin. It is reported that for each condition, at least 3 independent experiments were performed using different samples prepared from different colonies. The study also specifies that all cells were chosen at the same cell cycle phase and their method of identifying it. In the supplementary material, a table is provided that lists for a particular condition, the number of cells, single molecule traces, and single molecule displacements that contributed to the analysis. This is a clean way of communicating the sample sizes to the reader. The table is however, provided as a .tex file whereas a pdf file could have easily been used instead that would be more accessible to a general audience. 
 
 ### Tool accessibility
-
+All microscopy was done on a custom set-up, however, they name a commericial microscope that it is based on which would is likely easier to access. All code used in the analysis is custom and not shared. Very little information is provided about the analysis code (no reference to language or software) making it challenging to perform an exact replication of the analysis.
 
 ### Additional notes
 eLife includes a transparent reporting form with the publication where the authors are asked to comment on sample-size estimation, replicates, statistical reporting, group allocation, and additional data files. The authors provided reasonable responses to each section. 
