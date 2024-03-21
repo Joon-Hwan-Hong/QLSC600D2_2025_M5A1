@@ -279,3 +279,98 @@ Good description of the population. Almost N/A though since we are justlooking a
 
 ### Tool accessibility
 Other than the expensive equipment, the analysis software is fine
+
+### Ophthalmology
+
+## Paper 1 (RH): Coenzyme Q10 trapping in mitochondrial complex I underlies Leber’s hereditary optic neuropathy (2023)
+
+### Data availability and accessibility
+This paper is published under open access. It is a molecular dynamics simulation study of mitochondrial complex I. All the simulation and analysis codes and data are openly available and maintained in an online repository (Zenodo). Therefore, this paper has good data availablility and accessibility.
+
+### Quality of experimental design
+- The study design involves comparing a mutated protein structure with the original wildtype form. The molecular dynamics simulation generated enough data for statistical comparison.
+- In terms of potential of research practice, it is unlikely that the authors performed the simulation and the analysis blinded. However, since the analysis codes are made publicaly available, questionable statistical manipulation is unlikely.
+
+### Description of methods
+In the paper itself, the simulation and analysis pipeline were only briefly described. It would be hard to reproduce the results based on the methods section; readers probably need to go into the available codes to pindown the exact steps.
+
+### Description of sample population/data under study	
+This study is examining the structural characteristics and chemical kinetics of mitochondrial complex I in wildtype form and a mutant form relevant to Leber's hereditary optic neuropathy. The mutant itself is relatively common in the disease population. The based structure used for simulation was obtained from cryo-EM data.
+
+### Tool accessibility
+Overall, this is an open access paper with all of its codes and data available for download online. The only practical barrier to reproduce the research would be limitations of computation resources.
+
+## Paper 2 (RH): The morphology of an infarct in nonarteritic anterior ischemic optic neuropathy (2003)
+
+### Data availability and accesibility
+This paper presents a pathological examination of the optic nerve of an patient with nonarteritic anterior ischemic optic neuropathy. The raw processed pathological sample is probably kept at the institution, and the scanned pictures were included in the paper. However, the raw scanned pictures were not available online since it is a relatively old paper, from a time when online repository is not widely used.
+
+### Quality of experimental design
+There is no comparison with normal optic nerve sample in the paper. The pathologist probably knows the diagnosis of the patient, so analysis was not performed blinded.
+
+### Description of methods
+The pathological processing and image acquisition and processing were well-described in the paper. However, some details were omitted (such as the concentration of staining used), but this is typical practice in medical pathology papers.
+
+### Description of sample population/data under study	
+This paper is only based on one patient, since it is really hard to obtain patient samples with the rare disease.
+
+### Tool accessibility
+The pathological processing chemicals and microscopes are common in medical facilities and not expensive. However, patient sample would be really hard to obtain for such rare eye disease.
+
+## Public Health
+
+## Paper 1 (MS): Iron Replacement Therapy in the Routine Management of Blood Donors (2011)
+
+### Data availability and accessibility
+health data is very sensitive so reviewers would need permission from the ethics board of the hospital where the data was acquired from. The authors also do not mention the hospital where the data was collected; this information would have to be obtained by contacting the authors directly.
+
+### Quality of experimental design
+There was no mention of blinding or randomization in this study. Control donors were not matched for age, race, or gender
+
+### Description of methods
+ Laboratory testing protocol is sufficiently detailed.
+
+### Description of sample population/data under study	
+The exclusion criteria does not seem detailed enough. Depending on the location, blood donors can be given permanent deferrals based on their specific health history. In the paper, they do not mentions the local blood center donor eligibility criteria, and they also do not mention the location of the blood donation center. It would also be beneficial to specifically mention whether all blood donations in this study were allogenic or not.
+
+### Tool accessibility
+Neither the data collection software nor the data analysis software used in this study were mentioned, however this study did not employ computationally advanced analysis.
+
+## Paper 2 (MS): Intravenous iron for the treatment of fatigue in nonanemic, premenopausal women with low serum ferritin concentration (2011)
+
+### Data availability and accessibility
+To access the data, reviewers would have to gain permissions from the local ethics committees of all participating hospital centers.
+
+### Quality of experimental design
+The research is double-blinded and the randomization method is described.
+
+### Description of methods
+The location of data collection was well described (and mentioned specific hospitals), however the time period that data was collected in was not described at all.
+The laboratory method for measuring serum ferritin and hemoglobin concentration was not described.This study also included a "Short Performance Inventory" questionnaire, but there is not citation for where this questionnaire can be found, and neither is there detailed information on the content of the questionnaire.
+
+### Description of sample population/data under study
+There were also definitions in the inclusions and exclusion criteria that were not clearly described. There is ambiguity as to what the authors meant by "adequate contraception" in the inclusion criteria. Similarly, the exact "mental disorders" of the exclusion criteria were not mentioned, and neither was it described how they were assessed. The list of medications that would cause a participant to be unfit from participating in the study were also not thoroughly described.
+
+### Tool accessibility
+Neither the data collection software nor the data analysis software used in this study were mentioned. Otherwise, this study described the laboratory methods that they used.
+
+## Paper 3 (MS): The effect of repeated blood donations on the iron status of male Saudi blood donors (2011)
+
+### Data availability and accessibility
+To access the data, reviewers would have likely have to gain permissions from the local ethics committees of all participating hospital centers.
+
+### Quality of experimental design
+There was no mention of blinding. Randomization didn't seem necessary due to study design.
+
+### Description of methods
+The lab methods are well described and both the location and time frame of data collection was described.
+
+### Description of sample population/data under study
+There is some ambiguity as to the replicability of this paper. It says "all donors were healthy", but it's unclear as to whether this was exclusion criteria for the study. If it is exclusion criteria, there needs to be a lot more detail on the diseases/conditions that would be reasons for exclusion.
+
+### Tool accessibility
+The data collection software and analysis software were described, however not in detail (the version of SPSS was not described, and the data collection software was described as "blood bank computer database", which provides little detail).
+
+
+
+
