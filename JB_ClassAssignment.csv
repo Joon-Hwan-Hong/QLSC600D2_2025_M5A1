@@ -27,3 +27,8 @@ Image similarity and tissue overlaps as surrogates for image registration accura
 ,,,Lydia Hodgins,,,,,,,
 ,,,Lydia Hodgins,,,,,,,
 ,,,Lydia Hodgins,,,,,,,
+Go with the FLOW: visualizing spatiotemporal dynamics in optical widefield calcium imaging.,2021,https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0523,Rian Fritz D. Jalandoni,3,2,3,3,3,5,"The code and data used in the study are publicly available.  Supplementary movies were also available. The code is under an open license and can be used, but it cannot be modified without permission. The mouse population and their ages were clearly stated. However, I am not quite convinced by the statistical test that they performed, as well as the very small p-value provided given that they used only the average of the data, which was a small dataset. Furthermore, there are steps in the extraction of the Lagrangian Coherent Structures which were not quite clear. "
+Optical-flow analysis toolbox for characterization of spatiotemporal dynamics in mesoscale optical imaging of brain activity,2017,https://www.sciencedirect.com/science/article/pii/S1053811917302422?via%3Dihub,Rian Fritz D. Jalandoni,3,2,2,3,3,5,
+Cortex-Wide Dynamics of Intrinsic Electrical Activities: Propagating Waves and Their Interactions,2021,https://www.jneurosci.org/content/41/16/3665,Rian Fritz D. Jalandoni,2,3,2,3,2,4,
+"Chronic, cortex-wide imaging of specific cell populations during behavior",2021,https://www.nature.com/articles/s41596-021-00527-z,Rian Fritz D. Jalandoni,3,3,2,3,3,5,
+Detection and analysis of spatiotemporal patterns in brain activity,2018,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6292652/,Rian Fritz D. Jalandoni,2,3,2,3,3,4,
