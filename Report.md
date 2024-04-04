@@ -371,6 +371,93 @@ There is some ambiguity as to the replicability of this paper. It says "all dono
 ### Tool accessibility
 The data collection software and analysis software were described, however not in detail (the version of SPSS was not described, and the data collection software was described as "blood bank computer database", which provides little detail).
 
+## Rehabilitation Neuroscience
 
+## Paper 1 (AP): Perceptual Relearning of Complex Visual Motion after V1 Damage in Humans (2009)
 
+### Data availability and accessibility
+The research offers access to data through supplemental material available on the journal’s website, indicating a moderate level of transparency. However, full, unrestricted access to the data may be limited for those without subscription access to the journal.
+
+### Quality of experimental design
+The design is specifically tailored to the study’s objectives, with detailed descriptions of visual field testing and retraining protocols. However, the absence of a control group for comparison or a discussion on sample randomization could impact the study’s internal validity.
+
+### Description of methods
+ The methods section is precise and exhaustive, documenting the procedures for assessing visual deficits and the subsequent training protocol.
+
+### Description of sample population/data under study	
+The paper carefully describes the seven adult subjects, their demographic information, and the nature of their V1 damage, but does not explain in detail regarding the selection criteria.
+
+### Tool accessibility
+The custom psychophysics software critical to the study's findings is not publicly available.
+
+## Paper 2 (AP): Limited restoration of contrast sensitivity with training after V1 damage in humans (2024)
+
+### Data availability and accessibility
+The paper indicates that participant demographics and history are detailed in a table, suggesting that specific data is available to readers, however specific behaviour data is not available.
+
+### Quality of experimental design
+The study has a strong design, with two independent groups of participants at different stages post-stroke, allowing for the examination of temporal impacts on recovery and training. Furthermore, clear task descriptions and complete participant inclusion and exclusion criteria help to ensure a high-quality experimental design.
+
+### Description of methods
+Methods are explicitly described, including the participant selection process, perimetric mapping, visual field defect characterisation, and the eye-tracking apparatus employed. There is a comprehensive description of the stimuli and tasks for psychophysical testing, indicating a thorough methodology.
+
+### Description of sample population/data under study	
+The study sample is well-defined, with adequate material on the participants' demographics, time since stroke, and visual field abnormalities, all of which are crucial for understanding the study's findings and generalizability.
+### Tool accessibility
+The custom psychophysics software critical to the study's findings is not publicly available.
+
+## Psychophysics
+
+## Paper 3 (AP): Visual perceptual learning generalizes to untrained effectors (2021)
+
+### Data availability and accessibility
+The paper's data accessibility is indirectly implied by the mention of observer permission and ethical approval, implying that data may be available upon request but not immediately accessible in a public repository.
+
+### Quality of experimental design
+The design carefully considers both saccade and manual responses to motion direction identification tasks, including protocols that account for observer performance, indicating a high-quality, detailed approach.
+
+### Description of methods
+Methods are extensively explained, including observer setup, stimulus creation, and response recording, giving insight into the experimental workflow.
+
+### Description of sample population/data under study	
+Observers are within a small age range and have normal or corrected-to-normal vision, as characterized in demographic and vision status terms, indicating a distinct but sufficiently documented participant group.
+
+### Tool accessibility
+The use of standard psychophysical tools (EyeLink 1000, MATLAB, Psychtoolbox) is clear, but access to specific scripts to run the experiment is not clear.
+
+## Paper 5 (AP): Presaccadic motion integration between current and future retinotopic locations of attended objects (2016)
+
+### Data availability and accessibility
+Data is available upon request, indicating possible obstacles to instant access. 
+
+### Quality of experimental design
+The experimental design is comprehensive, including a detailed description of participant recruitment, setup, and the technique for performing the saccade and fixation tasks. The design also includes a pre-experimental training phase and threshold tasks to ensure that participants are adequately prepared for the main tasks, demonstrating a high level of methodological precision.
+
+### Description of methods
+The methods employed are thoroughly documented, including information regarding the participant setup, the eye tracking equipment utilized, the software used to control the experiment, and the individual activities involved. The complete explanation of the saccade and fixation tasks, as well as the threshold tasks, offers a clear path for replication.
+
+### Description of sample population/data under study	
+The sample population is carefully defined, with particular information about the individuals' demographics, visual status, and study inclusion criteria. The ethical implications are well-documented, assuring informed consent and respect to ethical standards.
+
+### Tool accessibility
+The use of standard psychophysical tools (EyeLink 1000, MATLAB, Psychtoolbox) is clear, but access to specific scripts to run the experiment is not clear.
+
+## Neuroscience
+
+## Paper 4 (AP): GABA and Glutamate in hMT+ Link to Individual Differences in Residual Visual Function After Occipital Stroke (2023)
+
+### Data availability and accessibility
+Data will be made available upon request, indicating a desire to cooperate but with a barrier that may delay access. Direct deposit in a public database would provide unrestricted access.
+
+### Quality of experimental design
+The design includes clear participant requirements, such as health condition and visual field limitations, as well as reliable imaging and psychophysical testing techniques. The study's ethical approval and adherence to the Declaration of Helsinki demonstrate a high-quality experimental design.
+
+### Description of methods
+Detailed procedures include participant recruiting, MRI and psychophysical testing, and task descriptions. The employment of modern imaging and tracking equipment, together with defined task protocols, provides a full perspective of the experimental methods.
+
+### Description of sample population/data under study	
+A clear description of the participant demographics, such as age, gender, and health status, helps to comprehend the study population. Additional characteristics, such as the level of visual field deficits and lesion locations, help to describe the sample population.
+
+### Tool accessibility
+Standard research equipment and software are used (e.g., EyeLink 1000, Siemens Prisma MRI scanner, MATLAB with Psychtoolbox), which are well-known in the area but may require significant resources to obtain, including financial and technical knowledge.
 
