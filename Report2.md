@@ -7,3 +7,5 @@
 ## Iron Deficiency and Blood Donation (Matthew Schinwald)
 
 ## Bacterial Genomics in Health Settings (Monica Cella)
+
+## Cortex-wide Brain Imaging and Neural Dynamics (Rian Fritz D. Jalandoni)
