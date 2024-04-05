@@ -1,5 +1,11 @@
 # Reproducibility of Papers on Different Fields
 
+# Introduction
+
+# Methods
+
+# Discussion
+
 ## Human Genetics In Disease Identification (Alina Tan)
 
 ## Medical Imaging and Segmentation (Megan Ng)
@@ -17,3 +23,8 @@
 ## Machine learning for biological insights from sequence modelling  (César Miguel Valdez Córdova)
 
 ## Biomedical Engineering Methods for drug delivery and microfluidics (Ioan Duchastel)
+
+
+# Conclusion
+
+# References
