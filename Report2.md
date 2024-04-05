@@ -15,3 +15,5 @@
 ## Single Molecule Imaging of DNA Interacting Proteins (Lydia Hodgins)
 
 ## Machine learning for biological insights from sequence modelling  (César Miguel Valdez Córdova)
+
+## Biomedical Engineering Methods for drug delivery and microfluidics (Ioan Duchastel)
