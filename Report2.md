@@ -8,6 +8,8 @@
 
 ## Bacterial Genomics in Health Settings (Monica Cella)
 
+##  Neuroplasticity and Perceptual Learning (Ashim Pandey)
+
 ## Cortex-wide Brain Imaging and Neural Dynamics (Rian Fritz D. Jalandoni)
 
 ## Single Molecule Imaging of DNA Interacting Proteins (Lydia Hodgins)
