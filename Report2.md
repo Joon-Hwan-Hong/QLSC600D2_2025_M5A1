@@ -24,6 +24,10 @@
 
 ## Biomedical Engineering Methods for drug delivery and microfluidics (Ioan Duchastel)
 
+## Pathophysiological Modelling for Optic Nerve Injury (Ryan Huang)
+
+## Neural Signal Analysis of Anesthesia-Associated Brain Dynamics Change (Ryan Huang)
+
 
 # Conclusion
 
