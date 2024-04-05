@@ -13,3 +13,5 @@
 ## Cortex-wide Brain Imaging and Neural Dynamics (Rian Fritz D. Jalandoni)
 
 ## Single Molecule Imaging of DNA Interacting Proteins (Lydia Hodgins)
+
+## Machine learning for biological insights from sequence modelling  (César Miguel Valdez Córdova)
