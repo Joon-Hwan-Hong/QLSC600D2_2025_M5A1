@@ -1,4 +1,4 @@
-# Reproducibility of Papers on Different Fields
+# Reproducibility of Papers from Various Scientific Fields
 
 # Introduction
 
