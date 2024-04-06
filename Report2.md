@@ -46,9 +46,9 @@ Afrashteh, N., Inayat, S., Mohsenvand, M., & Mohajerani, M. H. (2017). Optical-f
 
 Awada, A., Bakhtiari, S., & Pack, C. C. (2021). Visual perceptual learning generalizes to untrained effectors. Journal of Vision, 21(3), 10. https://doi.org/10.1167/jov.21.3.10
 
-Banaz, N., Mäkelä, J., & Uphoff, S. (2018). Choosing the right label for single-molecule tracking in live bacteria: Side-by-side comparison of photoactivatable fluorescent protein and Halo tag dyes. Journal of Physics D: Applied Physics, 52(6), 064002. https://doi.org/10.1088/1361-6463/aaf255
+Banaz, N., Mäkelä, J., & Uphoff, S. (2018). Choosing the right label for single-molecule tracking in live bacteria: Side-by-side comparison of photoactivatable fluorescent protein and Halo tag dyes._ Journal of Physics D: Applied Physics, 52_(6), 064002. https://doi.org/10.1088/1361-6463/aaf255
 
-Bettridge, K., Harris, F. E., Yehya, N., & Xiao, J. (2023). RNAP Promoter Search and Transcription Kinetics in Live E. coli Cells. The Journal of Physical Chemistry B, 127(17), 3816–3828. https://doi.org/10.1021/acs.jpcb.2c09142
+Bettridge, K., Harris, F. E., Yehya, N., & Xiao, J. (2023). RNAP Promoter Search and Transcription Kinetics in Live E. coli Cells. _The Journal of Physical Chemistry B, 127_(17), 3816–3828. https://doi.org/10.1021/acs.jpcb.2c09142
 
 Boyle, E. A., Li, Y. I., & Pritchard, J. K. (2017). An Expanded View of Complex Traits: From Polygenic to Omnigenic. Cell, 169(7), 1177–1186. https://doi.org/10.1016/j.cell.2017.05.038
 
@@ -68,7 +68,7 @@ DaSilva, L. F., Senan, S., Patel, Z. M., Reddy, A. J., Gabbita, S., Nussbaum, Z.
 
 de Kort, W., Prinsze, F., Nuboer, G., Twisk, J., & Merz, E.-M. (2019). Deferral rate variability in blood donor eligibility assessment. Transfusion, 59(1), 242–249. https://doi.org/10.1111/trf.14984
 
-Fan, J., El Sayyed, H., Pambos, O. J., Stracy, M., Kyropoulos, J., & Kapanidis, A. N. (2023). RNA polymerase redistribution supports growth in E. coli strains with a minimal number of rRNA operons. Nucleic Acids Research, 51(15), 8085–8101. https://doi.org/10.1093/nar/gkad511
+Fan, J., El Sayyed, H., Pambos, O. J., Stracy, M., Kyropoulos, J., & Kapanidis, A. N. (2023). RNA polymerase redistribution supports growth in E. coli strains with a minimal number of rRNA operons. _Nucleic Acids Research, 51_(15), 8085–8101. https://doi.org/10.1093/nar/gkad511
 
 Fang, R. H., Hu, C.-M. J., Luk, B. T., Gao, W., Copp, J. A., Tai, Y., O’Connor, D. E., & Zhang, L. (2014). Cancer Cell Membrane-Coated Nanoparticles for Anticancer Vaccination and Drug Delivery. Nano Letters, 14(4), 2181–2188. https://doi.org/10.1021/nl500618u
 
@@ -98,7 +98,7 @@ Mantadakis, E., Panagopoulou, P., Kontekaki, E., Bezirgiannidou, Z., & Martinis,
 
 Marbouty, M., Cournac, A., Flot, J.-F., Marie-Nelly, H., Mozziconacci, J., & Koszul, R. (2014). Metagenomic chromosome conformation capture (meta3C) unveils the diversity of chromosome organization in microorganisms. eLife, 3, e03318. https://doi.org/10.7554/eLife.03318
 
-Miné-Hattab, J., Heltberg, M., Villemeur, M., Guedj, C., Mora, T., Walczak, A. M., Dahan, M., & Taddei, A. (2021). Single molecule microscopy reveals key physical features of repair foci in living cells. eLife, 10, e60577. https://doi.org/10.7554/eLife.60577
+Miné-Hattab, J., Heltberg, M., Villemeur, M., Guedj, C., Mora, T., Walczak, A. M., Dahan, M., & Taddei, A. (2021). Single molecule microscopy reveals key physical features of repair foci in living cells. _eLife, 10_, e60577. https://doi.org/10.7554/eLife.60577
 
 Nguyen, E., Poli, M., Durrant, M. G., Thomas, A. W., Kang, B., Sullivan, J., Ng, M. Y., Lewis, A., Patel, A., Lou, A., Ermon, S., Baccus, S. A., Hernandez-Boussard, T., Ré, C., Hsu, P. D., & Hie, B. L. (2024). Sequence modeling and design from molecular to genome scale with Evo (p. 2024.02.27.582234). bioRxiv. https://doi.org/10.1101/2024.02.27.582234
 
@@ -116,7 +116,7 @@ Rohlfing, T. (2012). Image Similarity and Tissue Overlaps as Surrogates for Imag
 
 Salmon, C. K., Syed, T. A., Kacerovsky, J. B., Alivodej, N., Schober, A. L., Sloan, T. F. W., Pratte, M. T., Rosen, M. P., Green, M., Chirgwin-Dasgupta, A., Mehta, S., Jilani, A., Wang, Y., Vali, H., Mandato, C. A., Siddiqi, K., & Murai, K. K. (2023). Organizing principles of astrocytic nanoarchitecture in the mouse cerebral cortex. Current Biology, 33(5), 957-972.e5. https://doi.org/10.1016/j.cub.2023.01.043
 
-Sayyed, H. E., Pambos, O. J., Stracy, M., Gottesman, M. E., & Kapanidis, A. N. (2024). Single-molecule tracking reveals the functional allocation, in vivo interactions, and spatial organization of universal transcription factor NusG. Molecular Cell, 84(5), 926-937.e4. https://doi.org/10.1016/j.molcel.2024.01.025
+Sayyed, H. E., Pambos, O. J., Stracy, M., Gottesman, M. E., & Kapanidis, A. N. (2024). Single-molecule tracking reveals the functional allocation, in vivo interactions, and spatial organization of universal transcription factor NusG. Molecular _Cell, 84_(5), 926-937.e4. https://doi.org/10.1016/j.molcel.2024.01.025
 
 Serizay, J., Matthey-Doret, C., Bignaud, A., Baudry, L., & Koszul, R. (2024). Orchestrating chromosome conformation capture analysis with Bioconductor. Nature Communications, 15(1), 1072. https://doi.org/10.1038/s41467-024-44761-x
 
