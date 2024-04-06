@@ -46,7 +46,7 @@ Afrashteh, N., Inayat, S., Mohsenvand, M., & Mohajerani, M. H. (2017). Optical-f
 
 Awada, A., Bakhtiari, S., & Pack, C. C. (2021). Visual perceptual learning generalizes to untrained effectors. Journal of Vision, 21(3), 10. https://doi.org/10.1167/jov.21.3.10
 
-Banaz, N., Mäkelä, J., & Uphoff, S. (2018). Choosing the right label for single-molecule tracking in live bacteria: Side-by-side comparison of photoactivatable fluorescent protein and Halo tag dyes._ Journal of Physics D: Applied Physics, 52_(6), 064002. https://doi.org/10.1088/1361-6463/aaf255
+Banaz, N., Mäkelä, J., & Uphoff, S. (2018). Choosing the right label for single-molecule tracking in live bacteria: Side-by-side comparison of photoactivatable fluorescent protein and Halo tag dyes. _Journal of Physics D: Applied Physics, 52_(6), 064002. https://doi.org/10.1088/1361-6463/aaf255
 
 Bettridge, K., Harris, F. E., Yehya, N., & Xiao, J. (2023). RNAP Promoter Search and Transcription Kinetics in Live E. coli Cells. _The Journal of Physical Chemistry B, 127_(17), 3816–3828. https://doi.org/10.1021/acs.jpcb.2c09142
 
