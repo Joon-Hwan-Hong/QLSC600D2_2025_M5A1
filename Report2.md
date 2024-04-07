@@ -138,4 +138,14 @@ Xie, G., Deschamps, A., Backman, S. B., Fiset, P., Chartrand, D., Dagher, A., & 
 
 Yang 杨菁艺, J., Saionz, E. L., Cavanaugh, M. R., Fahrenthold, B. K., Melnick, M. D., Tadin, D., Briggs, F., Carrasco, M., & Huxlin, K. R. (2024). Limited restoration of contrast sensitivity with training after V1 damage in humans. eNeuro, 11(3), ENEURO.0020-24.2024. https://doi.org/10.1523/ENEURO.0020-24.2024
 
+Forgetta, V., Jiang, L., Vulpescu, N. A., Hogan, M. S., Chen, S., Morris, J. A., Grinek, S., Benner, C., Jang, D.-K., Hoang, Q., Burtt, N., Flannick, J. A., McCarthy, M. I., Fauman, E., Greenwood, C. M., Maurano, M. T., & Richards, J. B. (2022). An effector index to predict target genes at GWAS loci. Human Genetics, 141(8), 1431–1447. https://doi.org/10.1007/s00439-022-02434-z
+
+Ochoa, D., Karim, M., Ghoussaini, Maya, Hulcoop, D. G., McDonagh, E. M., & Dunham, I. (2022). Human genetics evidence supports two-thirds of the 2021 FDA-approved drugs. Nature Reviews Drug Discovery, 21(8), 551–551. https://doi.org/10.1038/d41573-022-00120-3
+
+Lennon, N. J., Kottyan, L. C., Kachulis, C., Abul-Husn, N. S., Arias, J., Belbin, G., Below, J. E., Berndt, S. I., Chung, W. K., Cimino, J. J., Clayton, E. W., Connolly, J. J., Crosslin, D. R., Dikilitas, O., Velez Edwards, D. R., Feng, Q., Fisher, M., Freimuth, R. R., Ge, T., … Kenny, E. E. (2024). Selection, optimization and validation of ten chronic disease polygenic risk scores for clinical implementation in diverse us populations. Nature Medicine, 30(2), 480–487. https://doi.org/10.1038/s41591-024-02796-z
+
+Chen, Y., Butler-Laporte, G., Liang, K. Y., Ilboudo, Y., Yasmeen, S., Sasako, T., Langenberg, C., Greenwood, C. M. T., & Richards, J. B. (2024). The Performance of Alphamissense to Identify Genes Causing Disease. https://doi.org/10.1101/2024.03.05.24303647
+
+Boyle, E. A., Li, Y. I., & Pritchard, J. K. (2017). An expanded view of complex traits: From polygenic to omnigenic. Cell, 169(7), 1177–1186. https://doi.org/10.1016/j.cell.2017.05.038
+![image](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/assets/102473618/659976db-a09d-44ab-9896-b371c1ba8e4b)
 
