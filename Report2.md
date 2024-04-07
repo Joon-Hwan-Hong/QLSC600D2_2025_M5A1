@@ -147,5 +147,4 @@ Lennon, N. J., Kottyan, L. C., Kachulis, C., Abul-Husn, N. S., Arias, J., Belbin
 Chen, Y., Butler-Laporte, G., Liang, K. Y., Ilboudo, Y., Yasmeen, S., Sasako, T., Langenberg, C., Greenwood, C. M. T., & Richards, J. B. (2024). The Performance of Alphamissense to Identify Genes Causing Disease. https://doi.org/10.1101/2024.03.05.24303647
 
 Boyle, E. A., Li, Y. I., & Pritchard, J. K. (2017). An expanded view of complex traits: From polygenic to omnigenic. Cell, 169(7), 1177–1186. https://doi.org/10.1016/j.cell.2017.05.038
-![image](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/assets/102473618/659976db-a09d-44ab-9896-b371c1ba8e4b)
 
