@@ -172,3 +172,71 @@ Chen, Y., Butler-Laporte, G., Liang, K. Y., Ilboudo, Y., Yasmeen, S., Sasako, T.
 
 Boyle, E. A., Li, Y. I., & Pritchard, J. K. (2017). An expanded view of complex traits: From polygenic to omnigenic. Cell, 169(7), 1177–1186. https://doi.org/10.1016/j.cell.2017.05.038
 
+# Appendix
+
+## Final Criteria
+
+#### Data availability and accessibility
+##### Numerical score out of 3:
+   3/3 - Unfettered Access
+      Immediate access, no perceived barriers
+      e.g. link provided to online cache of study data, free databases used, supplemental data provided, etc.
+   2/3 - Access with Barriers
+      Access but uncertain timeline
+      e.g. confidentiality, approving agency or subscription delays
+   1/3 - Unsatisfactory Access
+      Uncertain access and uncertain timeline
+      e.g. must contact authors or journal
+   0/3 - No Access
+      Cannot get access (realistically)
+      e.g. no contact information provided, broken data links
+
+##### Description of method
+###### Categorical score using yes/no check points. Sum the check marks for each section out of 3.
+   ☐ Is the objective of the study clearly defined?
+   ☐ Are the conclusion clearly supported by the collected evidence?
+   ☐ The method protocol is detailed and clearly written.
+      e.g. order of steps taken
+
+##### Description of data
+###### Categorical score using yes/no check points. Sum the check marks for each section out of 3.
+   ☐ The data or sample population under study are clearly defined for each analysis.
+              e.g. Sample size, metadata
+   ☐ The source of the data/population is clearly defined.
+   e.g. from database collection, approving agency, collected from previous experiment (or from the same study), which cell line, cite other study that you got data, etc.
+   ☐ Data pre-processing or processing is clearly defined.
+   e.g. missing data, outliers, data removed, sub-populations, data sets narrowed down based on different targets, biological and/or technical replicates, blinding, randomization, etc.
+
+##### Description of tools
+###### Categorical score using yes/no check points. Sum the check marks for each section out of 3.
+   ☐ The tools that directly contribute to the collected evidence are identified.
+   Note: literally just the name of the tool like “scanning electron microscope” or “R”.
+   ☐ The tools are also clearly defined in detail.
+   e.g. make/model of equipment, supplier/developer, supplier/developer location, software name, version numbers, etc.
+   ☐ The parameters are defined for each tool that directly contribute to the collected evidence.
+   e.g. settings, limitations, modifications, software changes, updates, adaptations, extensions, bugs/debugging, packages, etc.
+
+##### Tool availability and accessibility
+####### Numerical score out of 3:
+   3/3 - Unfettered Access
+      Immediate access, no perceived barriers
+   e.g. no license needed, free online software, code/program available online (i.e. github, other repo).
+   2/3 - Access with Barriers
+      Access but uncertain timeline
+      e.g. confidentiality barriers, approving agency or subscription delays.
+   1/3 - Unsatisfactory Access
+      Uncertain access and uncertain timeline
+   e.g. must contact authors or journal, internally developed software or equipment that is not freely accessible.
+   0/3 - No Access
+      Cannot get access (realistically)
+   e.g. no contact information provided, broken links.
+   
+##### Overall Replicability -Can those trained in the field can reproduce the study given the appropriate resources?
+###### Numerical score out of 5:
+   5/5 - Very likely
+   4/5 - Likely
+   3/5 - Possibly
+   2/5 - Not likely
+   1/5 - Very unlikey
+
+
