@@ -191,15 +191,15 @@ Boyle, E. A., Li, Y. I., & Pritchard, J. K. (2017). An expanded view of complex 
       Cannot get access (realistically)
       e.g. no contact information provided, broken data links
 
-##### Description of method
-###### Categorical score using yes/no check points. Sum the check marks for each section out of 3.
+#### Description of method
+##### Categorical score using yes/no check points. Sum the check marks for each section out of 3.
    ☐ Is the objective of the study clearly defined?
    ☐ Are the conclusion clearly supported by the collected evidence?
    ☐ The method protocol is detailed and clearly written.
       e.g. order of steps taken
 
-##### Description of data
-###### Categorical score using yes/no check points. Sum the check marks for each section out of 3.
+#### Description of data
+##### Categorical score using yes/no check points. Sum the check marks for each section out of 3.
    ☐ The data or sample population under study are clearly defined for each analysis.
               e.g. Sample size, metadata
    ☐ The source of the data/population is clearly defined.
@@ -207,8 +207,8 @@ Boyle, E. A., Li, Y. I., & Pritchard, J. K. (2017). An expanded view of complex 
    ☐ Data pre-processing or processing is clearly defined.
    e.g. missing data, outliers, data removed, sub-populations, data sets narrowed down based on different targets, biological and/or technical replicates, blinding, randomization, etc.
 
-##### Description of tools
-###### Categorical score using yes/no check points. Sum the check marks for each section out of 3.
+#### Description of tools
+##### Categorical score using yes/no check points. Sum the check marks for each section out of 3.
    ☐ The tools that directly contribute to the collected evidence are identified.
    Note: literally just the name of the tool like “scanning electron microscope” or “R”.
    ☐ The tools are also clearly defined in detail.
@@ -216,8 +216,8 @@ Boyle, E. A., Li, Y. I., & Pritchard, J. K. (2017). An expanded view of complex 
    ☐ The parameters are defined for each tool that directly contribute to the collected evidence.
    e.g. settings, limitations, modifications, software changes, updates, adaptations, extensions, bugs/debugging, packages, etc.
 
-##### Tool availability and accessibility
-####### Numerical score out of 3:
+#### Tool availability and accessibility
+##### Numerical score out of 3:
    3/3 - Unfettered Access
       Immediate access, no perceived barriers
    e.g. no license needed, free online software, code/program available online (i.e. github, other repo).
@@ -231,8 +231,8 @@ Boyle, E. A., Li, Y. I., & Pritchard, J. K. (2017). An expanded view of complex 
       Cannot get access (realistically)
    e.g. no contact information provided, broken links.
    
-##### Overall Replicability -Can those trained in the field can reproduce the study given the appropriate resources?
-###### Numerical score out of 5:
+#### Overall Replicability -Can those trained in the field can reproduce the study given the appropriate resources?
+##### Numerical score out of 5:
    5/5 - Very likely
    4/5 - Likely
    3/5 - Possibly
