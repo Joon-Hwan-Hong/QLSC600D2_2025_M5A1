@@ -24,7 +24,7 @@ Tool availability and accessibility (3pts) The reviewers also note that it is im
 ### Overall Replicability
 Overall replicability is important in scientific reproducibility because it confirms the reliability and robustness of research findings.This metric refers to how easily reviewers think other researchers can easily replicate the setup and analysis in the evaluated study. For this reason, the reviewers must be familiar or are working in the same field of research for them to fairly gauge the replicability of the study. This metric can be dependent on how the study is based on the previously mentioned metrics. Reviewers will assess how replicable the study is for those researchers with sufficient training in the same field, along with adequate resources. 
  
-The specific criteria used within this study can be found in the appendix (add citation for appendix).
+The specific criteria used within this study can be found in the appendix (see Appendix).
 To graphically compare evaluations between different research fields, radar charts, also called spider charts, were developed. Each evaluation criteria except for overall replicability was incorporated into the radar chart as its own radii.
 
 
