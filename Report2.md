@@ -4,6 +4,30 @@
 
 # Methods
 
+For this analysis reviewers met twice to develop criteria for assessing research replicability. An initial meeting was conducted which identified preliminary criteria to assess research with. Reviewers were then tasked to review two papers with the preliminary criteria, and then to meet again to discuss as a group how this criteria should be revised in order to develop the final review criteria. The final review criteria was chosen for its objectivity and its ability to be applied to all fields of research within quantitative life sciences.
+
+The criteria used for evaluating research consists of the following categories: data availability and accessibility, description of study protocol, description of data, description of tools, and overall replicability.
+
+### Data Availability and Accessibility
+Data availability and accessibility are important for scientific reproducibility since they allow results verification, transparency, collaboration, and error detection within the scientific community. Access to raw data allows other researchers to validate findings, fosters trust through transparency, and facilitates collaboration, thus preventing redundant efforts and promoting faster scientific progress. Furthermore, open and accessible data encourages scrutiny in studies among peers, aiding in identification and correction of errors. It also serves as valuable educational resources for training future quantitative life scientists in data analysis and research methodologies. For these reasons, reviewers agreed to and were tasked to evaluate how easily accessible to the public/other scientists are the data from a specific study. Specifically, the reviewers base the score for this metric on the hoops and loops other scientists need to encounter before obtaining the appropriate and sufficient data for the replicability of the study.
+
+### Description of Study Protocol
+One key to scientific reproducibility is the clarity and accuracy of the methodology written on a publication. Furthermore, a study is worthwhile reproducing, if the methodology is also appropriate in answering the important questions. Thus, the reviewers find it essential that the papers must have clear and logical methodology and analysis in their study. The study must have appropriate materials, methodologies, and analysis that are aligned to the questions being answered. Misleading research studies are confusing and unproductive for the scientific community. Moreover, for reproducibility, it is essential to specify the method used in a scientific study so that other researchers can replicate the experiments or analyses accurately. Clear documentation promotes transparency, allowing for peer scrutiny and validation of conclusions.
+
+### Description of Data
+The description of the data used in a scientific study is crucial for reproducibility, because it allows other researchers to replicate the findings, promotes transparency in research methods and analyses, and avoids ambiguity about the data source. A clear specification of data contributes to the scientific advancement of knowledge by enhancing credibility of research and facilitating faster validation of conclusions.
+
+### Description of Tools
+In order to ensure scientific reproducibility, other researchers need to know which tools(hardware, software, instruments, reagents etc.) were used for the experimental setup and/or analyses. An accurate documentation for tools facilitates peer review and validation of results, ensuring transparency. In addition, it ensures consistent procedures and reliable interpretation of findings by avoiding ambiguities and misunderstanding about equipment or materials.
+Tool availability and accessibility (3pts) The reviewers also note that it is important for scientific reproducibility and replicability that tools are easily accessible for accurate study replications. By making the research tools readily accessible, other researchers are able to obtain the same equipment, software, instruments, chemical reagents, etc. similar to what were used in the study. The accessibility ensures consistency in procedures, reduces variation in results, and research transparency is enhanced. Ultimately, accessible tools increase scientific collaborations and verification.
+
+### Overall Replicability
+Overall replicability is important in scientific reproducibility because it confirms the reliability and robustness of research findings.This metric refers to how easily reviewers think other researchers can easily replicate the setup and analysis in the evaluated study. For this reason, the reviewers must be familiar or are working in the same field of research for them to fairly gauge the replicability of the study. This metric can be dependent on how the study is based on the previously mentioned metrics. Reviewers will assess how replicable the study is for those researchers with sufficient training in the same field, along with adequate resources. 
+ 
+The specific criteria used within this study can be found in the appendix (add citation for appendix).
+To graphically compare evaluations between different research fields, radar charts, also called spider charts, were developed. Each evaluation criteria except for overall replicability was incorporated into the radar chart as its own radii.
+
+
 # Discussion
 
 ## Human Genetics In Disease Identification (Alina Tan)
