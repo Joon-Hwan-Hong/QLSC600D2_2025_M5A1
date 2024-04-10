@@ -160,6 +160,8 @@ DaSilva, L. F., Senan, S., Patel, Z. M., Reddy, A. J., Gabbita, S., Nussbaum, Z.
 
 de Kort, W., Prinsze, F., Nuboer, G., Twisk, J., & Merz, E.-M. (2019). Deferral rate variability in blood donor eligibility assessment. Transfusion, 59(1), 242–249. https://doi.org/10.1111/trf.14984
 
+Errington, T. M., Denis, A., Perfito, N., Iorns, E., & Nosek, B. A. (2021). Challenges for assessing replicability in preclinical cancer biology. _eLife, 10_, e67995. https://doi.org/10.7554/eLife.67995
+
 Fan, J., El Sayyed, H., Pambos, O. J., Stracy, M., Kyropoulos, J., & Kapanidis, A. N. (2023). RNA polymerase redistribution supports growth in E. coli strains with a minimal number of rRNA operons. _Nucleic Acids Research, 51_(15), 8085–8101. https://doi.org/10.1093/nar/gkad511
 
 Fang, R. H., Hu, C.-M. J., Luk, B. T., Gao, W., Copp, J. A., Tai, Y., O’Connor, D. E., & Zhang, L. (2014). Cancer Cell Membrane-Coated Nanoparticles for Anticancer Vaccination and Drug Delivery. Nano Letters, 14(4), 2181–2188. https://doi.org/10.1021/nl500618u
@@ -167,6 +169,8 @@ Fang, R. H., Hu, C.-M. J., Luk, B. T., Gao, W., Copp, J. A., Tai, Y., O’Connor
 Forgetta, V., Jiang, L., Vulpescu, N. A., Hogan, M. S., Chen, S., Morris, J. A., Grinek, S., Benner, C., Jang, D.-K., Hoang, Q., Burtt, N., Flannick, J. A., McCarthy, M. I., Fauman, E., Greenwood, C. M. T., Maurano, M. T., & Richards, J. B. (2022). An effector index to predict target genes at GWAS loci. Human Genetics, 141(8), 1431–1447. https://doi.org/10.1007/s00439-022-02434-z
 
 Fuller, J. T., Barnes, S., Sadun, L. A., Ajmera, P., Alexandrova, A. N., & Sadun, A. A. (2023). Coenzyme Q10 trapping in mitochondrial complex I underlies Leber’s hereditary optic neuropathy. Proceedings of the National Academy of Sciences, 120(39), e2304884120. https://doi.org/10.1073/pnas.2304884120
+
+Goodman, S. N., Fanelli, D., & Ioannidis, J. P. A. (2016). What does research reproducibility mean? _Science Translational Medicine, 8_(341), 341ps12-341ps12. https://doi.org/10.1126/scitranslmed.aaf5027
 
 Hirase, H., Akther, S., Wang, X., & Oe, Y. (2019). Glycogen distribution in mouse hippocampus. Journal of Neuroscience Research, 97(8), 923–932. https://doi.org/10.1002/jnr.24386
 
