@@ -100,6 +100,15 @@ Lal et al. (2024) leverages the HyenaDNA architecture to design cis-regulatory D
 
 ## Biomedical Engineering Methods for drug delivery and microfluidics (Ioan Duchastel)
 
+Biomedical engineering techniques have gained a lot of traction over the past few decades. With organ-on-a-chip technologies being one way to practice in-vitro assays, there are many opportunities to develop systems that mimic real-life environment with precise accuracy. To gauge the level of detail put into making these procedures reproducible, contributor IDV reviewed 3 papers related to bioengineering methods. The publications ranged from 2014 to 2020 publication years and investigate methods for utilizing membranes to coat surfaces.
+
+Fang et al. (2014) introduce a new method of utilizing biomimetic nanoparticles to target cancer tissues. By coating polymeric nanoparticle cores with cancerous cell membranes, they fabricated nanoparticles with a high binding affinity with tumor cells. Fortunately, the paper explains its methods down to the concentrations of each used chemical by a readily available supporting information document. Data didn’t seem to be accessible through publication sites, putting the burden on the reader to obtain it through the authors. However, this is a minor issue, as the essential details to reproduce the results is available and every tool is accessible.
+
+Rao et al. (2016) also introduce a way to use biomimetic nanoparticles, this time to facilitate imaging of cancer tissues. By using the nanoparticles as fluorescent probes, they could image the cancer tissues, taking advantage of the strong adhesion between macrophages and cancer cells. The data presented in this report is not accessible, but, similarly to the previous one, a lot of the data comes from analyzing the images present in the report. The report provides a thorough description and makes the methods available to reproduce.
+
+Clapis et al. (2020) used phospholipid bilayers to coat the walls of microfluidics channel. This decreases cell adhesion on the chip, benefitting flow-through assays by increasing the flow of cells. Data is unavailable for this report and seems to be only available through the authors. Besides this, the report provides detailed descriptions of the methods, making it easy to reproduce the assays described in it.
+
+
 ## Pathophysiological Modelling for Optic Nerve Injury (Ryan Huang)
 
 ## Neural Signal Analysis of Anesthesia-Associated Brain Dynamics Change (Ryan Huang)
