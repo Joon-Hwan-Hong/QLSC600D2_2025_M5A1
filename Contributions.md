@@ -59,3 +59,10 @@
 * I wrote my discussion section analyzing my 5 papers.
 * I consistently met group deadlines.
 
+  ## Ashim Pandey
+* I attended a meeting.
+* I reviewed 5 papers in my area of expertise and critiqued them based on our developed criteria.
+* I pushed my changes to the .md final report and .csv paper list on Github.
+* I wrote my discussion section analyzing my 5 papers.
+* I consistently met group deadlines.
+
