@@ -124,10 +124,13 @@ Rao et al. (2016) also introduce a way to use biomimetic nanoparticles, this tim
 
 Clapis et al. (2020) used phospholipid bilayers to coat the walls of microfluidics channel. This decreases cell adhesion on the chip, benefitting flow-through assays by increasing the flow of cells. Data is unavailable for this report and seems to be only available through the authors. Besides this, the report provides detailed descriptions of the methods, making it easy to reproduce the assays described in it.
 
-
 ## Pathophysiological Modelling for Optic Nerve Injury (Ryan Huang)
 
+Optic nerve injury is a leading cause of blindness. Better elucidation of the pathophysiological mechanisms will lead to potential interventions that could slow down, stop, or even reverse damage to the optic nerve.
+
 ## Neural Signal Analysis of Anesthesia-Associated Brain Dynamics Change (Ryan Huang)
+
+Anesthesia is essential for modern medical procedures. However, its neural mechanisms are yet to be fully understood, although a lot of progress has been made already on its pharmachological, molecular, cellular, network effects.
 
 
 # Conclusion
