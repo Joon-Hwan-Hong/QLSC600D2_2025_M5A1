@@ -76,7 +76,6 @@
 * I wrote my discussion section analyzing my 5 papers.
 * I was the co-author of the Methods section with Matthew.
 * I consistently met group deadlines.
-* 
 
 ## Matthew Schinwald
 * I consistently attended group meetings.
