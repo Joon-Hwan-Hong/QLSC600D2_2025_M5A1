@@ -4,8 +4,6 @@
 
 ## Monica Cella
 
-* Planned group meetings and took meeting notes
-* Created outlines for deadlines
 * I consistently attended group meetings.
 * I actively participated in discussions on creating criteria for the reproducibilty marking rubric.
 * I reviewed 5 papers in my area of expertise and critiqued them based on our developed criteria.
