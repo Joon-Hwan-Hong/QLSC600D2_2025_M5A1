@@ -342,4 +342,9 @@ Yang 杨菁艺, J., Saionz, E. L., Cavanaugh, M. R., Fahrenthold, B. K., Melnick
    2/5 - Not likely
    1/5 - Very unlikey
 
+![R1](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/2020.png?raw=true)
+![R2](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/2020.png?raw=true)
+![R3](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/2020.png?raw=true)
+![R4](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/2020.png?raw=true)
+![R5](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/2020.png?raw=true)
 
