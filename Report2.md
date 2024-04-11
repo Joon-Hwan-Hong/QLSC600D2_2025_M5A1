@@ -342,9 +342,9 @@ Yang 杨菁艺, J., Saionz, E. L., Cavanaugh, M. R., Fahrenthold, B. K., Melnick
    2/5 - Not likely
    1/5 - Very unlikey
 
-![R1](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/2020.png?raw=true)
-![R2](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/2020.png?raw=true)
-![R3](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/2020.png?raw=true)
-![R4](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/2020.png?raw=true)
-![R5](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/2020.png?raw=true)
+![R1](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/R1.png?raw=true)
+![R2](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/R2.png?raw=true)
+![R3](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/R3.png?raw=true)
+![R4](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/R4.png?raw=true)
+![R5](https://github.com/Joon-Hwan-Hong/QLSC600D2_2025_M5A1/blob/main/RadarPlots/R5.png?raw=true)
 
